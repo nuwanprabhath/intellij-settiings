@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.RenameTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt 7" />
@@ -13,6 +16,8 @@
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="ctrl meta quote" />
   </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="NewJavaScriptFile">
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
   </action>
@@ -31,4 +36,6 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="tasks.switch" />
 </keymap>
