@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://ec2-34-228-12-121.compute-1.amazonaws.com" />
+          <token>df9fdf9adf9bdf9cdf98df9adfccdf98df92dfc9dfccdf9ddf93df98df9bdf9edf98df9fdf9adf9edfcbdfcfdf99dfc8df9bdfcfdfc8df98df9edfcfdf99df9adfcbdf9bdf9edfcbdf9bdfc8df99df99</token>
+          <option name="name" value="Sysco Labs" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
