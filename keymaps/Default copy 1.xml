@@ -14,6 +14,9 @@
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="EditorJoinLines" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -25,4 +28,8 @@
   </action>
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="ShowSettings" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
 </keymap>
