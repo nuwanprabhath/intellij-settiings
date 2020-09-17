@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="utsoac.org.au" id="b29bdd21-f7d8-4a6e-9b16-a78b1b8c2965" keyPath="C:\test\OAC\oac_private_nuwan.ppk" port="22" nameFormat="DESCRIPTIVE" username="utsoacor" />
+      <sshConfig host="3.216.88.188" id="76ededa9-88ce-4c3a-8ce7-ad700c4eac94" keyPath="C:\test\sshkeys\MT Rapido Server\MT-shock-tracker-webserver-pvt.ppk" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</application>
