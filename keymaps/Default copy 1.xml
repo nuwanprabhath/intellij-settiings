@@ -23,7 +23,6 @@
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="NewJavaScriptFile">
-    <keyboard-shortcut first-keystroke="shift j" />
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
   <action id="NextTab" />
